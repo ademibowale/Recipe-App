@@ -84,11 +84,20 @@ For you to see the styling being applied in the browser during development
 
 ## Authors
 
+
+👤 **Adebowale Adegboye Monsur**
+
+- GitHub: [@githubhandle](https://github.com/ademibowale)
+- Twitter: [@twitterhandle](https://twitter.com/Ademibowale1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/adebowale-adegboye-143568221/)
+
 👤 **Nicholas Emmanuel**
 
 - GitHub: [@NickEmma](https://github.com/NickEmma)
 - Twitter: [@techieEmma](https://twitter.com/techieEmma)
 - LinkedIn: [@Nicholas Emmanuel](https://www.linkedin.com/in/techieemma/)
+
+
 
 
 ## 🤝 Contributing
